@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - A program that assigns random numbers to a variable 
+ * main - A program to assign a random number to a variable
  * Return: 0 (success)
  */
 int main(void)
@@ -18,4 +18,4 @@ int main(void)
 	else
 		printf("%d is negative\n", n);
 	return (0);
-}
+}	
