@@ -7,21 +7,21 @@
 
 void print_triangle(int size)
 {
-	int hand, index;
+	int hash, index;
 
 	if (size > 0)
 	{
-		for (hand = 1; hand <= size; hand++)
+		for (hash = 1; hash <= size; hash++)
 		{
-			for (index = 0; index < hand; index--)
+			for (index = 0; index < hash; index--)
 			{
 				_putchar(' ');
 			}
-			for (index = 0; index < hand; index++)
+			for (index = 0; index < hash; index++)
 			{
 				_putchar('#');
 			}
-			if (hand == size)
+			if (hash == size)
 			{
 				continue;
 			}
