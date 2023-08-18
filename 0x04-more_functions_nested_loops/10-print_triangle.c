@@ -13,6 +13,10 @@ void print_triangle(int size)
 	{
 		for (hand = 1; hand <= size; hand++)
 		{
+			for (index = 0; index < hand; index--)
+			{
+				_putchar(' ');
+			}
 			for (index = 0; index < hand; index++)
 			{
 				_putchar('#');
