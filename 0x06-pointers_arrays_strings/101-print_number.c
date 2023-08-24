@@ -2,7 +2,7 @@
 
 /**
  * print_number - A function that prints an integer
- * @n: integer param
+ * @n: integer params
  * Return: 0
  */
 
