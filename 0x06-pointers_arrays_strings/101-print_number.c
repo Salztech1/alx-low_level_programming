@@ -2,8 +2,7 @@
 
 /**
   * print_number - A function that prints any integer with putchar
-  * @n: number to prints
-  *
+  * @n: Number to prints
   * Return: 0
   */
 void print_number(int n)
