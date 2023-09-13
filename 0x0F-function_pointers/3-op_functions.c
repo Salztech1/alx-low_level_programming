@@ -9,7 +9,7 @@
 
 
 	/**
-	 * op_add - Returns the sum of two numbers.
+	 * op_add - A function that returns the sum of two numbers.
 	 * @a: The first number.
 	 * @b: The second number.
 	 *
