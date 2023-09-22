@@ -1,1 +1,1 @@
-my readme file fpr singly linked lists
+my readme file for singly linked lists
